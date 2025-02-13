@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Resume</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Your Name</h1>
+        <p>Web Developer | Designer | Tech Enthusiast</p>
+        <p>Email: your.email@example.com | LinkedIn: linkedin.com/in/yourprofile</p>
+    </header>
+    <section>
+        <h2>Experience</h2>
+        <h3>Job Title - Company Name</h3>
+        <p>Year - Present</p>
+        <p>Description of your role and responsibilities.</p>
+    </section>
+    <section>
+        <h2>Education</h2>
+        <h3>Degree - University</h3>
+        <p>Year of Graduation</p>
+    </section>
+    <section>
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML, CSS, JavaScript</li>
+            <li>React, Node.js</li>
+            <li>Git, GitHub</li>
+        </ul>
+    </section>
+</body>
+</html>
